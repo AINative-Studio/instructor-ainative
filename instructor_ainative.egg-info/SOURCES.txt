@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+instructor_ainative/__init__.py
+instructor_ainative/client.py
+instructor_ainative/models.py
+instructor_ainative/provision.py
+instructor_ainative.egg-info/PKG-INFO
+instructor_ainative.egg-info/SOURCES.txt
+instructor_ainative.egg-info/dependency_links.txt
+instructor_ainative.egg-info/requires.txt
+instructor_ainative.egg-info/top_level.txt
+tests/test_client.py
+tests/test_models.py
+tests/test_provision.py
